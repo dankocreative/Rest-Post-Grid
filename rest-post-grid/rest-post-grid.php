@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Danko REST API Post Grid
-Description: Display posts from any REST API in a customizable grid or list with a video overlay icon, adjustable link styles, Gutenberg block, and settings page.
+Description: Display posts from any REST API in a customizable grid or list, adjustable link styles, Gutenberg block, and settings page.
 Version: 1.0
 Author: Kevin Danko
 Author URI: https://dankocreative.com
