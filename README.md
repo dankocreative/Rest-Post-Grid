@@ -1,5 +1,5 @@
-# Rest-Post-Grid
-REST API Post Grid Plugin by Kevin Danko
+# Danko-Rest-Post-Grid
+Danko REST Post Grid Plugin by Kevin Danko
 
 This Wordpress plugin adds a Gutenberg Block to your WordPress website called Danko Rest Post Grid.  When added to your page you can insert a valid Rest API URL and then customize the appearence of Posts in a Grid or List view.  You can also set how often a fetch occurs.
 
