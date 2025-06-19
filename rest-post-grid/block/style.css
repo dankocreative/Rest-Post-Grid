@@ -1,0 +1,71 @@
+.drpg-container {
+    margin: 0;
+}
+.drpg-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+    box-shadow: none;
+    border-radius: 0;
+}
+.drpg-thumb {
+    position: relative;
+    padding-top: 56%;
+    overflow: hidden;
+}
+.drpg-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+.drpg-video-icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity .3s;
+}
+.drpg-thumb:hover .drpg-video-icon {
+    opacity: 1;
+}
+.drpg-item h3 {
+    margin-top: 0;
+}
+.drpg-item a {
+    text-decoration: none;
+    line-height: 1.2;
+    text-shadow: none;
+}
+.drpg-title-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    background: rgba(0,0,0,0.6);
+    text-align: center;
+}
+.drpg-title-under {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.drpg-meta {
+    font-size: 0.9em;
+    color: #666;
+    margin-top: 5px;
+}
+.drpg-meta-author {
+    margin-left: 5px;
+}
