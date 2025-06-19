@@ -12,4 +12,4 @@ This Wordpress plugin adds a Gutenberg Block to your WordPress website called Da
 
 If you have any questions or concerns please visit my website https://dankocreative.com
 
-“WordPress is a registered trademark of the WordPress Foundation. This plugin is not affiliated with or endorsed by WordPress.”
+*WordPress is a registered trademark of the WordPress Foundation. This plugin is not affiliated with or endorsed by WordPress.
